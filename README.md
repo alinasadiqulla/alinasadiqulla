@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alina 👋
 
-<!--
-**alinasadiqulla/alinasadiqulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at NYU passionate about using data to solve real-world problems. I enjoy working with Python, SQL, and building data visualizations that tell compelling stories.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL, HTML
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Git/GitHub, Excel
+- **Focus Areas:** Data Analysis, Machine Learning, Data Visualization
+
+## 📊 Featured Projects
+
+- **[Kaká Impact Analysis](https://github.com/alinasadiqulla/kaka-impact-analysis)** - Analyzing how player presence affects team performance using SQL and Python
+- **[M.A.T.R Rover](https://github.com/alinasadiqulla/medical-rover-matr)** - Stair-climbing medical delivery robot with Arduino-based navigation
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/alina-sadiqulla-54945a176](https://www.linkedin.com/in/alina-sadiqulla-54945a176/)
+- Email: alinasadiqulla1878@gmail.com
+
+---
+
+💡 Currently learning machine learning techniques and building projects that combine data science with real-world impact.
