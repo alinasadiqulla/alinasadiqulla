@@ -13,7 +13,7 @@ I'm a Data Science student at NYU passionate about using data to solve real-worl
 
 - **[Kaká Impact Analysis](https://github.com/alinasadiqulla/kaka-impact-analysis)** - Analyzing how player presence affects team performance using SQL and Python
 - **[M.A.T.R Rover](https://github.com/alinasadiqulla/medical-rover-matr)** - Stair-climbing medical delivery robot with Arduino-based navigation
-- **[AI PDF Summarizer](https://github.com/alinasadiqulla/[R6_PlayerRecommender](https://github.com/alinasadiqulla/AI-PDF-Summarizer))**Summarizes a PDF with AI!
+- **[AI PDF Summarizer](https://github.com/alinasadiqulla/[R6_PlayerRecommender](https://github.com/alinasadiqulla/AI-PDF-Summarizer))** - Summarizes a PDF with AI!
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/alina-sadiqulla-54945a176](https://www.linkedin.com/in/alina-sadiqulla-54945a176/)
