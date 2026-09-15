@@ -12,7 +12,7 @@ I'm a Data Science student at NYU passionate about using data to solve real-worl
 ## 📊 Featured Projects
 
 - **[Kaká Impact Analysis](https://github.com/alinasadiqulla/kaka-impact-analysis)** - Analyzing how player presence affects team performance using SQL and Python
-- **[M.A.T.R Rover](https://github.com/alinasadiqulla/medical-rover-matr)** - Stair-climbing medical delivery robot with Arduino-based navigation
+- **[Rossmann Promotion Analysis](https://github.com/alinasadiqulla/rossmann-promotion-analysis)** - Analysis of whether retail promotions drive additional sales or shift existing demand, using day-matched comparisons on 1M+ store-day records
 - **[AI PDF Summarizer](https://github.com/alinasadiqulla/AI-PDF-Summarizer)** - Summarizes a PDF with AI!
 ## 📫 Let's Connect
 
